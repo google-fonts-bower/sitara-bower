@@ -1,0 +1,17 @@
+{
+    "name": "sitara-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Neelakash Kshetrimayum"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/sitara-bower.git"
+    },
+    "description": "Sitara font",
+    "keywords": [
+        "font",
+        "SERIF"
+    ]
+}
